@@ -1,0 +1,7 @@
+in_FirstName		row("First Name").ToString
+in_LastName		row("Last Name").ToString
+in_CityStateZip		row("City, State, Zip").ToString
+in_Phone		row("Phone").ToString
+in_Email		row("Email").ToString
+in_Age			row("Age").ToString
+in_NoOfDependents	row("Number of Dependents").ToString	
